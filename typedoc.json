@@ -1,0 +1,6 @@
+{
+  "entryPoints": ["./src/App.tsx"],
+  "excludePrivate": true,
+  "hideGenerator": true,
+  "out": "docs"
+}

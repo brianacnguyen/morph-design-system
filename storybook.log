@@ -1,0 +1,16 @@
+➤ YN0000: · Yarn 4.1.1
+➤ YN0000: ┌ Resolution step
+➤ YN0085: │ + @chromatic-com/storybook@npm:1.6.1, @storybook/addon-essentials@npm:8.2.6, @storybook/addon-interactions@npm:8.2.6, @storybook/addon-links@npm:8.2.6, and 582 more.
+➤ YN0000: └ Completed in 10s 737ms
+➤ YN0000: ┌ Fetch step
+➤ YN0013: │ 555 packages were added to the project (+ 58.32 MiB).
+➤ YN0000: └ Completed in 20s 973ms
+➤ YN0000: ┌ Link step
+➤ YN0000: └ Completed in 13s 823ms
+
+@lavamoat/allow-scripts has detected dependencies without configuration. explicit configuration required.
+run "allow-scripts auto" to automatically populate the configuration.
+
+packages missing configuration:
+- storybook>@storybook/core>esbuild [1 location(s)]
+- ts-node>@swc/core [1 location(s)]
